@@ -52,5 +52,6 @@ The underlying AI agent operates under strict operational guardrails written exp
 > *   **Timezone Lock:** Locked exclusively to Malaysia/Kuala Lumpur standard time (`+08:00`). Relative dates like "TMR" or "next Monday" are systematically transformed into absolute UTC/ISO strings.
 > *   **Branding & Signatures:** Every outgoing email strictly signs off as:
 >     ```text
->  Best regards,
->     Zyan44567   
+>     Best regards,
+>     Leezy
+>     Founder   
